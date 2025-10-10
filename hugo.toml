@@ -6,3 +6,13 @@ theme = "hugo-scroll"
 
 enableEmoji = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # Enables use of <sub> and other html sutff in markdown
+      unsafe = true
+
+[params]
+  favicon = "images/favicon.png"
+  images = ["images/przerodziny-reczniki.jpg"]
+
