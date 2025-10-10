@@ -1,0 +1,67 @@
+<!-- This is file where you put your custom stuff for janraasch/hugo-scroll theme -->
+<style>
+
+    :root {
+      --cover-text-color: #f0f0f0 !important;
+      --cover-title-text-shadow:  black 0px 2px 12px;
+    }
+    
+    .mobile-only {
+        display: none;
+    }
+
+    .desktop-only {
+        display: block;
+    }
+
+    /* Selector for mobile devices - hopefully it works fairly okay */
+    /* Rule of thumb - don't overuse this */
+    @media only screen and (hover: none) and (pointer: coarse) {
+        .mobile-only {
+            display: block;
+        }
+
+        .desktop-only {
+            display: none;
+        }
+    }
+
+    /* Default font for text. NOTE: You need to force h1, h2... etc to change headers */
+    body {
+        font-family: Helvetica, sans-serif;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    #site-head-content {
+      padding-bottom: 16em;
+    }
+
+    .blog-title {
+        /* fancy font: */
+        font-family: 'Lobster', cursive;
+        font-weight: normal;
+        font-size: 10rem !important;
+    }
+
+    /* on small screens */
+    @media only screen and (max-width: 600px) {
+        .blog-title {
+            font-size: 6rem !important;
+        }
+    }
+
+    /* Upper-left navigation - active item */
+    a.fn-item.active {
+        color: #000;
+    }
+
+    /* Background colorful color */
+    .post-holder.odd {
+        background: #7b9d00;
+    }
+</style>
+
