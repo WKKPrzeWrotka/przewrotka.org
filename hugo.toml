@@ -2,9 +2,10 @@ baseURL = 'https://przewrotka.org/'
 languageCode = 'pl-PL'
 title = 'PrzeWrotka'
 
-theme = "hugo-scroll"
-
+enableRobotsTXT = true
 enableEmoji = true
+
+theme = "hugo-scroll"
 
 [markup]
   [markup.goldmark]
