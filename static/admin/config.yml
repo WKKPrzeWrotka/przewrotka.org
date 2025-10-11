@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: WKKPrzeWrotka/przewrotka.org
-  site_domain: chipper-dolphin-c9621c
+  site_domain: chipper-dolphin-c9621c.netlify.app
   branch: master
   
 media_folder: assets/images
