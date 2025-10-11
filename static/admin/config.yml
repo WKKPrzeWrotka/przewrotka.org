@@ -8,7 +8,7 @@ media_folder: assets/
 public_folder: /
 collections:
   - name: special
-    label: Specjalne (główny baner, właściwości itp)
+    label: Specjalne (główny baner itp)
     files: 
       - name: main_index
         label: Główny baner
@@ -28,7 +28,7 @@ collections:
       - { name: weight, label: Pozycja, widget: number, value_type: int}
       - { name: body, label: Treść, widget: markdown }
   - name: pages
-    label: Pozostałe strony (nie widoczne na głównej)
+    label: Pozostałe strony
     folder: content/
     create: true
     media_folder: assets
