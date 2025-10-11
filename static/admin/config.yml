@@ -3,10 +3,13 @@ backend:
   repo: WKKPrzeWrotka/przewrotka.org
   site_domain: przewrotka.org
   
-media_folder: 'assets/images'
+media_folder: assets/images
+public_folder: /images
 collections:
   - name: homepage
     label: Homepage
     folder: content/homepage
     fields:
-      - { label: "Title", name: "title", widget: "string" }
+      - { name: title, label: Tytuł, widget: string }
+      - { name: weight, label: Pozycja, widget: number, value_type: int}
+      - { name: body, label: Treść, widget: markdown }
