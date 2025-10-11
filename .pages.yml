@@ -6,4 +6,5 @@ content:
     fields:
       - name: title
       - name: body
+        type: rich-text
       
