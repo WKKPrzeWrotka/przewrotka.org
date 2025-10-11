@@ -7,6 +7,16 @@ backend:
 media_folder: assets/
 public_folder: /
 collections:
+  - name: special
+    label: Specjalne
+    files: 
+      - name: main_index
+        label: Główny baner
+        file: content/_index.md
+        fields:
+          - { name: header_image, label: Zdjęcie, widget: image }
+          - { name: header_headline, label: Tytuł, widget: string }
+          - { name: header_subheadline, label: Podtytuł, widget: string }
   - name: homepage
     label: Fragmenty strony głównej
     folder: content/homepage
