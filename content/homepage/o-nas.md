@@ -4,4 +4,4 @@ weight: 1
 ---
 My ogólnie pływamy kajakami
 
-![](assets/logo-black-white-square.jpg)
+![](/homepage/assets/logo-black-white-square.jpg)
