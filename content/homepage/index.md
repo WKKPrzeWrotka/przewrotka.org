@@ -1,6 +1,6 @@
 ---
 headless: true
-title: Stronka glowna
+title: Baner stronki glownej
 weight: 0
 ---
-tu nic nie pisz
+Tu nic nie pisz, to sie nigdzie nie pokaże. Taki pliczek żeby działało :P
