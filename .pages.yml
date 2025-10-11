@@ -3,3 +3,6 @@ content:
   - name: homepage
     type: collection
     path: content/homepage
+    fields:
+      - name: title
+      
