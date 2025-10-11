@@ -4,8 +4,8 @@ backend:
   site_domain: chipper-dolphin-c9621c.netlify.app
   branch: master
   
-media_folder: assets/images
-public_folder: /images
+media_folder: assets/
+public_folder: /
 collections:
   - name: homepage
     label: Fragmenty strony głównej
