@@ -11,6 +11,8 @@ collections:
     label: Fragmenty strony głównej
     folder: content/homepage
     create: true
+    media_folder: ''
+    public_folder: ''
     fields:
       - { name: title, label: Tytuł, widget: string }
       - { name: weight, label: Pozycja, widget: number, value_type: int}
