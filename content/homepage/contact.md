@@ -6,10 +6,3 @@ title: Kontakt
 *   [https://www.instagram.com/przewrotka/](https://www.instagram.com/przewrotka/)
     
 *   mkkprzewrotka \[at\] [gmail.com](http://gmail.com)
-    
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-|     |     |     | ![](/assets/images/favicon.png) |
-|     |     |     |     |
-|     |     |     |     |
