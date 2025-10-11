@@ -5,4 +5,5 @@ content:
     path: content/homepage
     fields:
       - name: title
+      - name: body
       
