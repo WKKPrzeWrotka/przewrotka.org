@@ -12,7 +12,7 @@ collections:
     folder: content/homepage
     create: true
     media_folder: 'assets'
-    public_folder: 'assets'
+    public_folder: '/homepage/assets'
     fields:
       - { name: title, label: Tytuł, widget: string }
       - { name: weight, label: Pozycja, widget: number, value_type: int}
