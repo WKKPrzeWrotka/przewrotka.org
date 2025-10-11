@@ -1,5 +1,5 @@
 ---
 title: Galeria zdjęć
-weight: 3
+weight: 30
 ---
-Galeria zdjęć: [/galeria](/galeria)
+[Galeria zdjęć](/galeria)
