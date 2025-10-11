@@ -8,8 +8,9 @@ media_folder: assets/images
 public_folder: /images
 collections:
   - name: homepage
-    label: Homepage
+    label: Fragmenty strony głównej
     folder: content/homepage
+    create: true
     fields:
       - { name: title, label: Tytuł, widget: string }
       - { name: weight, label: Pozycja, widget: number, value_type: int}
