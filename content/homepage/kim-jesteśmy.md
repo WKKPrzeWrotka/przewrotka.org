@@ -1,5 +1,5 @@
 ---
 title: Kim jesteśmy?
-weight: 1
+weight: 100
 ---
 Jesteśmy przekajakarzami
