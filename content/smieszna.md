@@ -1,0 +1,4 @@
+---
+title: smieszna
+---
+okej zobaczmy
