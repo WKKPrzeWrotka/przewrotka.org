@@ -21,8 +21,6 @@ collections:
     label: Fragmenty strony głównej
     folder: content/homepage
     create: true
-    media_folder: assets
-    public_folder: /homepage/assets
     fields:
       - { name: title, label: Tytuł, widget: string }
       - { name: weight, label: Pozycja, widget: number, value_type: int}
@@ -31,8 +29,6 @@ collections:
     label: Pozostałe strony
     folder: content/
     create: true
-    media_folder: assets
-    public_folder: /assets
     fields:
       - { name: title, label: Tytuł, widget: string }
       - { name: body, label: Treść, widget: markdown }
