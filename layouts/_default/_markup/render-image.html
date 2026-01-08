@@ -1,6 +1,14 @@
 {{- $image_file := .Destination -}}
 {{- $image_file := replace $image_file "/assets/" "" -}}
 {{- $image := resources.Get $image_file -}}
-<img src="{{ $image.Permalink }} "
-     {{- with .PlainText }} alt="{{ . }}" {{ end -}}
-     {{- with .Title }} title="{{ . }}" {{ end -}}/>
+
+{{ $filter := images.AutoOrient }}
+{{- $image_oriented := images.Filter $filter $image }}
+{{- $image_webp := $image_oriented.Resize "x1000 jpg" }}
+{{- $image_webp := $image_oriented.Resize "x1000 webp" }}
+<picture>
+    <source srcset="{{ $image_webp.Permalink }}" type="image/webp">
+    <img src="{{ $image_oriented.Permalink }}"
+         {{- with $.PlainText }} alt="{{ . }}" {{ end }}
+         {{- with $.Title }} title="{{ . }}" {{ end }}>
+</picture>
