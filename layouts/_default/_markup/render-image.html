@@ -2,40 +2,46 @@
 {{- $image_file := replace $image_file "/assets/" "" -}}
 {{- $image := resources.Get $image_file -}}
 {{ $filter := images.AutoOrient }}
-{{/* Kod z: https://fundor333.com/post/2024/new-render-image-for-hugo/ poniżej, lekko zmieniony żeby działał z moim src */}}
-
-{{/* Original code from: https://laurakalbag.com/processing-responsive-images-with-hugo/   */}}
-{{/* Just modified a bit to work with render_image hook and output webp images   */}}
-{{/* get file that matches the filename as specified as src=""  */}}
 
 {{ $src := images.Filter $filter $image }}
 {{ $alt := .PlainText | safeHTML }}
 
-{{/* So for posts that aren't setup in the page bundles, it doesn't fail  */}}
-{{ if $src }}
+{{ if $image }}
+{{ $format := cond (eq $image.MediaType.SubType "gif") "" "webp" -}}
 
-{{ $format := cond (eq $src.MediaType.SubType "gif") "" "webp" -}}
+{{ $src := images.Filter $filter $image }}
 
-{{ $xs := "500x" }}
-{{ $s := "800x" }}
-{{ $m := "1200x" }}
-{{ $l := "1500x" }}
+{{ $xs := 500 }}
+{{ $s := 800 }}
+{{ $m := 1200 }}
+{{ $l := 1500 }}
 
-{{ $tinyw := default (printf "%s %s" $xs $format) }}
-{{ $smallw := default (printf "%s %s" $s $format) }}
-{{ $mediumw := default (printf "%s %s" $m $format) }}
-{{ $largew := default (printf "%s %s" $l $format) }}
-
-{{/* resize the src image to the given sizes */}}
-{{/* We create a a temp scratch because it`s not available in this context */}}
 {{ $data := newScratch }}
 
-{{ $data.Set "tiny" ($src.Resize $tinyw) }}
-{{ $data.Set "small" ($src.Resize $smallw) }}
-{{ $data.Set "medium" ($src.Resize $mediumw) }}
-{{ $data.Set "large" ($src.Resize $largew) }}
+{{/* Only resize if original is larger than target size */}}
+{{ if gt $src.Width $xs }}
+{{ $data.Set "tiny" ($src.Resize (printf "%dx %s" $xs $format)) }}
+{{ else }}
+{{ $data.Set "tiny" ($src.Resize (printf "%dx %s" $src.Width $format)) }}
+{{ end }}
 
-{{/* add the processed images to the scratch */}}
+{{ if gt $src.Width $s }}
+{{ $data.Set "small" ($src.Resize (printf "%dx %s" $s $format)) }}
+{{ else }}
+{{ $data.Set "small" ($src.Resize (printf "%dx %s" $src.Width $format)) }}
+{{ end }}
+
+{{ if gt $src.Width $m }}
+{{ $data.Set "medium" ($src.Resize (printf "%dx %s" $m $format)) }}
+{{ else }}
+{{ $data.Set "medium" ($src.Resize (printf "%dx %s" $src.Width $format)) }}
+{{ end }}
+
+{{ if gt $src.Width $l }}
+{{ $data.Set "large" ($src.Resize (printf "%dx %s" $l $format)) }}
+{{ else }}
+{{ $data.Set "large" ($src.Resize (printf "%dx %s" $src.Width $format)) }}
+{{ end }}
 
 {{ $tiny := $data.Get "tiny" }}
 {{ $small := $data.Get "small" }}
