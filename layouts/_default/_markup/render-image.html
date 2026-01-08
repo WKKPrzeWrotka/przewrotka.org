@@ -4,10 +4,11 @@
 
 {{ $filter := images.AutoOrient }}
 {{- $image_oriented := images.Filter $filter $image }}
-{{- $image_webp := $image_oriented.Resize "x1000 jpg" }}
+{{- $image_jpeg := $image_oriented.Resize "x1000 jpeg" }}
 {{- $image_webp := $image_oriented.Resize "x1000 webp" }}
 <picture>
     <source srcset="{{ $image_webp.Permalink }}" type="image/webp">
+    <source srcset="{{ $image_jpeg.Permalink }}" type="image/jpeg">
     <img src="{{ $image_oriented.Permalink }}"
          {{- with $.PlainText }} alt="{{ . }}" {{ end }}
          {{- with $.Title }} title="{{ . }}" {{ end }}>
