@@ -1,0 +1,6 @@
+{{- $image_file := .Destination -}}
+{{- $image_file := replace $image_file "/assets/" "" -}}
+{{- $image := resources.Get $image_file -}}
+<img src="{{ $image.Permalink }} "
+     {{- with .PlainText }} alt="{{ . }}" {{ end -}}
+     {{- with .Title }} title="{{ . }}" {{ end -}}/>
