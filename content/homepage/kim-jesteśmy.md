@@ -33,6 +33,7 @@ Ale nie samym pływankiem człowiek żyje...
 
 Znajdziesz u nas niemałe grono wspinaczy, biegaczy, rowerzystów,  paralotniarzy, narciarzy, nurków czy też miłośników wędrówek. Łatwo u nas złapać kolejne zainteresowania, nawet jeśli kajakarstwo Ci nie podejdzie!
 
+<img width="1170" height="878" alt="image" src="https://github.com/user-attachments/assets/7f8652b2-6578-4651-82ad-87099551a7b6" />
 
 
 Jak do nas dołączyć?
