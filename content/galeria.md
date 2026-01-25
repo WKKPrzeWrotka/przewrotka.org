@@ -5,7 +5,7 @@ tu kiedyś będą zdjęcia :)
 :)))
 
 
-| Wyjazd       | Eskimoski | Dziubki | Kabiny | Zesrania |
+| Wyjazd       | Eskimoski | Dziubki | Kabiny | Incydenty |
 |--------------|-----------|---------|--------|----------|
 | Widawa       | 0         | 2       | 3      | 0        |
 | Bystrzyca    | 4         | 8       | 12     | 1        |
