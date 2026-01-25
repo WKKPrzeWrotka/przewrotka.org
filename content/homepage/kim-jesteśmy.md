@@ -26,10 +26,14 @@ Zimą też nie próżnujemy!
 
 Sezon jesienno - zimowy spędzamy na basenach, trenując eskimoski i bawiąc się tak zwanym freestyle'em. Gdy poziom wody na to pozwoli, pojawiają się też możliwości spłynięcia polskich rzek, takich jak Kamienna czy Białka.
 
+<img width="1317" height="878" alt="image" src="https://github.com/user-attachments/assets/a31cdfc6-3fca-4394-8157-59b008dc5959" />
+
 Ale nie samym pływankiem człowiek żyje...
 ---
 
 Znajdziesz u nas niemałe grono wspinaczy, biegaczy, rowerzystów,  paralotniarzy, narciarzy, nurków czy też miłośników wędrówek. Łatwo u nas złapać kolejne zainteresowania, nawet jeśli kajakarstwo Ci nie podejdzie!
+
+
 
 Jak do nas dołączyć?
 ---
