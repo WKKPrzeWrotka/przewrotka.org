@@ -12,13 +12,11 @@ Działamy przez cały rok! Wiosną szkolimy (nie tylko!) młodych adeptów kajak
 
 ![ ](/dsc01527_dev.jpg " ")
 
-
-
 ## Jak do nas dołączyć?
 
 Wypełnij formularz na naszym Facebook'u - tam wszystko o Szkoleniówce! Jeszcze przed kursem możecie nas spotkać na Dniach Aktywności Studenckiej na Politechnice Wrocławskiej, na wydarzeniu "I love PWr" czy też na Odrze - odsyłamy do kontaktu!
 
-![](/000106730005.jpeg)
+![](/20250524_192138.jpg)
 
 ## Środy klubowe
 
