@@ -10,7 +10,7 @@ Jesteśmy PrzeKajakarzami z Wrocławskiego Klubu Kajakowego! Tworzymy społeczno
 
 Działamy przez cały rok! Wiosną szkolimy (nie tylko!) młodych adeptów kajakarstwa w ramach corocznego kursu. W trakcie Szkoleniówki kursanci mają okazję nauczyć się podstawowych manewrów przygotowujących do pływania rzek nizinnych i górskich.
 
-<img width="1317" height="878" alt="image" src="https://github.com/user-attachments/assets/b6305544-5303-4050-aa09-9ad600966481" />
+![ ](/dsc01527_dev.jpg " ")
 
 ## Latem...
 
