@@ -20,22 +20,22 @@ Latem zwiedzamy różne zakątki Europy, a nawet świata w poszukiwaniu wrażeń
 
 ## Zimą też nie próżnujemy!
 
-Sezon jesienno - zimowy spędzamy na basenach, trenując eskimoski i bawiąc się tak zwanym freestyle'em. Gdy poziom wody na to pozwoli, pojawiają się też możliwości spłynięcia polskich rzek, takich jak Kamienna czy Białka.
+Sezon jesienno - zimowy spędzamy na basenach, trenując eskimoski i bawiąc się  freestyle'em, a gdy poziom wody na to pozwoli, spływamy polskie rzeki, takie jak Kamienna czy Białka.
 
 ![](/_dmp7391.jpg)
 
 ## Ale nie samym pływankiem człowiek żyje...
 
-Znajdziesz u nas niemałe grono wspinaczy, biegaczy, rowerzystów,  paralotniarzy, narciarzy, nurków czy też miłośników wędrówek. Łatwo u nas złapać kolejne zainteresowania, nawet jeśli kajakarstwo Ci nie podejdzie!
+Znajdziesz u nas niemałe grono wspinaczy, biegaczy, rowerzystów,  paralotniarzy, narciarzy, nurków czy też miłośników wędrówek. Łatwo złapać kolejne zainteresowania, nawet jeśli kajakarstwo Ci nie podejdzie!
 
 ![](/received_878185814579280.jpeg)
 
 ## Jak do nas dołączyć?
 
-Wystarczy wypełnić formularz, który znajdziecie na naszym Facebook'u! Tam przeczytacie wszystko o Szkoleniówce. Jeszcze przed kursem możecie nas spotkać na Dniach Aktywności Studenckiej na Politechnice Wrocławskiej, jak i na wydarzeniu "I love PWr". Organizujemy także spotkania na Odrze - odsyłamy do kontaktu!
+Wypełnij formularz na naszym Facebook'u - tam wszystko o Szkoleniówce! Jeszcze przed kursem możecie nas spotkać na Dniach Aktywności Studenckiej na Politechnice Wrocławskiej, na wydarzeniu "I love PWr" czy też na Odrze - odsyłamy do kontaktu!
 
 ![](/000106730005.jpeg)
 
 ## Środy klubowe
 
-W środy każdy jest mile widziany na spotkaniach na Barce Irence, w Muzeum Odry, na bulwarze przy PWr. Będziecie tam mogli z nami pogadać, pograć w planszówki, wypić browarka, obejrzeć film. Zapraszamy!
+W środy zapraszamy na spotkania na Barce Irence, w Muzeum Odry, na bulwarze przy PWr. Pogadacie tam z nami, pogracie w planszówki, wypijecie browarka, obejrzycie film!
