@@ -1,4 +1,4 @@
 ---
-title: nowa1
+title: Teraz zmiana
 ---
 dobra let's check
