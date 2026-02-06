@@ -17,7 +17,8 @@ Sezon jesienno - zimowy spędzamy na basenach, trenując eskimoski i bawiąc si�
 
 Znajdziesz u nas niemałe grono wspinaczy, biegaczy, rowerzystów, paralotniarzy, narciarzy, nurków czy też miłośników wędrówek. Łatwo złapać kolejne zainteresowania, nawet jeśli kajakarstwo Ci nie podejdzie!
 
-<img src="/received_878185814579280.jpeg" width="50%">
+<img src="/received_878185814579280.jpeg" width="48%">
+<img src="/received_878185814579280.jpeg" width="48%">
 
 [
 ![](/received_878185814579280.jpeg)
