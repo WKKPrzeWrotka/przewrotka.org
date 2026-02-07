@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mapa Klubów Akademickich</title>
+    <style>
+        /* container keeps everything together */
+        .map-box {
+            position: relative;   /* containing block for absolute children */
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* background map */
+        .map {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        /* common icon rules */
+        .icon {
+            position: absolute;
+            width: 20%;           /* size of the pin */
+            transform: translate(-50%, -50%); /* centre the pin on the spot */
+            transition: transform .2s ease; /* smooth grow/shrink */
+        }
+        .icon:hover {
+            transform: translate(-50%, -50%) scale(1.15);
+        }
+
+        #przewrotka { left: 30%; top: 70%; }
+        #morzkulc   { left: 45%; top: 20%; }
+        #bystrze    { left: 60%; top: 80%; }
+        #habazie    { left: 65%; top: 45%; }
+        #pantarei   { left: 20%; top: 40%; }
+    </style>
+</head>
+<body>
+<div class="map-box">
+    <img class="map" src="poland.svg">
+    <a href="https://przewrotka.org"><img id="przewrotka" class="icon" width="100px" src="przewrotka.svg"></a>
+    <a href="http://www.morzkulc.pg.gda.pl/"><img id="morzkulc" class="icon" width="100px" src="morzkulc.svg"></a>
+    <a href="https://bystrze.org/"><img id="bystrze" class="icon" width="100px" src="bystrze.svg"></a>
+    <a href="https://www.habazie.pl/"><img id="habazie" class="icon" width="100px" src="habazie.svg"></a>
+    <a href="https://pantarei.org.pl/"><img id="pantarei" class="icon" width="100px" src="pantarei.svg"></a>
+</div>
+</body>
+</html>
