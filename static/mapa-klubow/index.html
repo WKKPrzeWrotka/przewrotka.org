@@ -5,9 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Mapa Klubów Akademickich</title>
     <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif
+        }
+
         /* container keeps everything together */
         .map-box {
-            position: relative;   /* containing block for absolute children */
+            position: relative;
             width: 100%;
             max-width: 1200px;
             margin: 0 auto;
@@ -20,32 +26,94 @@
             height: auto;
         }
 
-        /* common icon rules */
-        .icon {
+        /* pin wrapper positions both icon and caption */
+        .pin {
             position: absolute;
-            width: 20%;           /* size of the pin */
-            transform: translate(-50%, -50%); /* centre the pin on the spot */
-            transition: transform .2s ease; /* smooth grow/shrink */
-        }
-        .icon:hover {
-            transform: translate(-50%, -50%) scale(1.15);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transform: translate(-50%, -50%);
+            filter: drop-shadow(0 4px 12px rgba(0, 0, 0, .25)); /* smooth blurry shade */
+            transition: filter .25s ease;
         }
 
-        #przewrotka { left: 30%; top: 70%; }
-        #morzkulc   { left: 45%; top: 20%; }
-        #bystrze    { left: 60%; top: 80%; }
-        #habazie    { left: 65%; top: 45%; }
-        #pantarei   { left: 20%; top: 40%; }
+        .pin img {
+            transition: transform .2s ease;
+        }
+
+        .pin:hover img {
+            transform: scale(1.15);
+        }
+
+        .pin span {
+            font-size: 48px;
+            color: #000;
+        }
+
+        .pin, a {
+            text-decoration: none;
+        }
+
+        #przewrotka {
+            left: 33%;
+            top: 68%;
+        }
+
+        #morzkulc {
+            left: 43%;
+            top: 14%;
+        }
+
+        #bystrze {
+            left: 58%;
+            top: 80%;
+        }
+
+        #habazie {
+            left: 65%;
+            top: 48%;
+        }
+
+        #pantarei {
+            left: 25%;
+            top: 40%;
+        }
+
+        #przewrotka, img {
+            height: 25%;
+            width: auto;
+        }
+
+        #morzkulc, img {
+            height: 25%;
+            width: auto;
+        }
+
+        #bystrze, img {
+            height: 30%;
+            width: auto;
+        }
+
+        #habazie, img {
+            height: 30%;
+            width: auto;
+        }
+
+        #pantarei, img {
+            height: 40%;
+            width: auto;
+        }
+
     </style>
 </head>
 <body>
 <div class="map-box">
     <img class="map" src="poland.svg">
-    <a href="https://przewrotka.org"><img id="przewrotka" class="icon" width="100px" src="przewrotka.svg"></a>
-    <a href="http://www.morzkulc.pg.gda.pl/"><img id="morzkulc" class="icon" width="100px" src="morzkulc.svg"></a>
-    <a href="https://bystrze.org/"><img id="bystrze" class="icon" width="100px" src="bystrze.svg"></a>
-    <a href="https://www.habazie.pl/"><img id="habazie" class="icon" width="100px" src="habazie.svg"></a>
-    <a href="https://pantarei.org.pl/"><img id="pantarei" class="icon" width="100px" src="pantarei.svg"></a>
+    <a id="przewrotka" class="pin" href="https://przewrotka.org"><img src="przewrotka.svg"><span>Wrocław</span></a>
+    <a id="morzkulc" class="pin" href="http://www.morzkulc.pg.gda.pl/"><img src="morzkulc.svg"><span>Gdańsk</span></a>
+    <a id="bystrze" class="pin" href="https://bystrze.org/"><img src="bystrze.svg"><span>Kraków</span></a>
+    <a id="habazie" class="pin" href="https://www.habazie.pl/"><img src="habazie.svg"><span>Warszawa</span></a>
+    <a id="pantarei" class="pin" href="https://pantarei.org.pl/"><img src="pantarei.svg"><span>Poznań</span></a>
 </div>
 </body>
 </html>
