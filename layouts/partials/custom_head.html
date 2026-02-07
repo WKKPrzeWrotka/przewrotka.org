@@ -65,5 +65,29 @@
     .post-holder.odd {
         background: #7b9d00;
     }
+
+    /* 1. turn the paragraph into a flexible container */
+    p:has(img) {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+
+    /* 2. make every image fluid … */
+    p img {
+        flex: 1 1 auto;      /* grow/shrink, base width automatic */
+        max-width: 100%;     /* never exceed the line length */
+        height: auto;
+    }
+
+    /* 3. …but if the paragraph contains MORE than two images,
+          clamp each one so they never exceed half the row */
+    /* 2 images → each can be almost half the row */
+    p:has(a:nth-of-type(2)) a { max-width: 48%; }
+    p:has(a:nth-of-type(3)) a { max-width: 32%; }
+    p:has(a:nth-of-type(4)) a { max-width: 24%; }
+    p:has(a:nth-of-type(5)) a { max-width: 19%; }
+    p:has(a:nth-of-type(6)) a { max-width: 15.5%; }
+
 </style>
 
