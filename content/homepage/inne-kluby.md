@@ -3,7 +3,7 @@ title: Inne kluby
 weight: 100
 ---
 
-<iframe src="https://przewrotka.org/mapa-klubow"
+<iframe src="/mapa-klubow"
     width="90%"
     scrolling="no"
     style="
