@@ -2,6 +2,9 @@
 title: Inne kluby
 weight: 100
 ---
+Poznajcie inne kluby akademickie w Polsce! Integrujemy się z nimi, gdy tylko pojawi się taka możliwość!
+
+
 
 <iframe src="/mapa-klubow"
     width="90%"
