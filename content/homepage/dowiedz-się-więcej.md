@@ -2,4 +2,4 @@
 title: Szkolenia
 weight: 4
 ---
-[Tutaj](/szkolenia) dowiesz się, jak i gdzie się szkolimy!
+[Tutaj](/szkolenia) dowiesz się, jak i gdzie się szkolimy! 
