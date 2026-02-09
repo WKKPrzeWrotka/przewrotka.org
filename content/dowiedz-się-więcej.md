@@ -9,7 +9,7 @@ Dbamy o nasz rozwój! Bierzemy udział w szkoleniach z kajakarstwa górskiego na
 
 **Czechy w Tropikach**
 
-![](/61870.jpeg) ![](/20250504_105407.jpg)
+![](/20250504_105407.jpg) ![](/57648.jpg)
 
 **Alpy Szkoleniowe**[](/galeria)
 
