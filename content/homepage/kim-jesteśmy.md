@@ -5,6 +5,11 @@ weight: 1
 Jesteśmy społecznością ludzi w każdym wieku z zajawką przede wszystkim kajakową! Łączy nas głównie kajakarstwo górskie i nizinne.
 
 ![ ](/25970.jpg " ")
+
+
+
+
+
 ![](/img_20220508_133814.jpg)
 
 ## Jak do nas dołączyć?
@@ -12,5 +17,4 @@ Jesteśmy społecznością ludzi w każdym wieku z zajawką przede wszystkim kaj
 Wypełnij formularz na naszym Facebook'u - tam wszystko o Szkoleniówce! 
 Wiosną szkolimy (nie tylko!) młodych adeptów kajakarstwa w ramach corocznego kursu. W trakcie Szkoleniówki kursanci mają okazję nauczyć się podstawowych manewrów przygotowujących do pływania rzek nizinnych i górskich. 
 
-![ ](/dsc01527_dev.jpg " ") 
-![](/20250524_192138.jpg)
+![ ](/dsc01527_dev.jpg " ")
