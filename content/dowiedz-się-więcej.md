@@ -1,7 +1,7 @@
 ---
 title: Szkolenia
 ---
-Dbamy o nasz rozwój! Bierzemy udział w szkoleniach z kajakarstwa górskiego na różnym poziomie zaawansowania.
+Dbamy o nasz rozwój! Bierzemy udział w szkoleniach z kajakarstwa górskiego na różnym poziomie zaawansowania. 
 
 **Salza szkoleniowa**
 
