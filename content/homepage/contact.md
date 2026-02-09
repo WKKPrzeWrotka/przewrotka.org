@@ -9,5 +9,3 @@ weight: 10
 
 * <https://www.instagram.com/przewrotka/>
 * mkkprzewrotka\[at]gmail.com
-
-  ![]()
