@@ -1,5 +1,5 @@
 ---
-title: Szkolenia :)
+title: Szkolenia
 weight: 5
 ---
-[Tutaj](/szkolenia) dowiesz się, jak i gdzie się szkolimy! 
+[Tutaj](/szkolenia) dowiesz się, jak i gdzie się szkolimy!
