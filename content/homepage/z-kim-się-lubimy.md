@@ -6,6 +6,7 @@ Jeszcze przed kursem możecie nas spotkać na Dniach Aktywności Studenckiej na 
 
 ![](/logopwrkolorpionbeztla.png) ![]() ![]() ![]() ![]() 
 
+
 ![](/334287772_544496437786208_3683432284625964899_n.png) ![]() ![]()
 
 Bierzemy udział w licznych wydarzeniach na PWr! Wpadaj na DASy!
