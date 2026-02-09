@@ -1,5 +1,5 @@
 ---
-title: Dowiedz się więcej!
+title: Szkolenia
 ---
 **Działamy przez cały rok!**
 
