@@ -1,5 +1,5 @@
 ---
 title: Dowiedz się więcej
-weight: 3
+weight: 4
 ---
 [Tutaj](/dowiedz-się-więcej) więcej o nas!
