@@ -2,4 +2,4 @@
 title: Wyjazdy integracyjne
 weight: 5
 ---
-[Tutaj](/wyjazdy-integracyjne)[](/wyjazdy-integracyjne)
+[Sprawdź](/wyjazdy-integracyjne)[](/wyjazdy-integracyjne), na jakie wyjazdy koleżeńskie warto pojechać po Szkoleniówce!
