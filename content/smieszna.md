@@ -4,6 +4,9 @@ title: smieszna
 okej zobaczmy
 
 
+![](/empty.png)
+
+![](/facebook_logo_-square-.png)
 
 ![](/empty.png)
 
