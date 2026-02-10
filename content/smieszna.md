@@ -3,6 +3,12 @@ title: smieszna
 ---
 okej zobaczmy
 
+
+
+
+
+![yyy](/52147.jpg "WCHODZE W TO!")
+
 <center><img width="10%" src="/facebook_logo_-square-.png"></center>
 
 ![](/empty.png) ![](/facebook_logo_-square-.png) ![](/empty.png)
