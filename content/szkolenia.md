@@ -5,9 +5,17 @@ Dbamy o Nasz rozwój! Bierzemy udział w szkoleniach z kajakarstwa górskiego na
 
 **Salza szkoleniowa**
 
-Salza Szkoleniowa to 2 tygodnie przygody w Alpach dla osób, które ukończyły Szkoleniówkę w swoim klubie. Nauczysz się tam techniki podstawowych manewrów używanych na rzekach górskich, poćwiczysz ratownictwo i spróbujesz swoich sił w tak zwanym freestyle'u!
+Salza Szkoleniowa to 2 tygodnie przygody w Alpach dla osób, które ukończyły Szkoleniówkę w swoim klubie. Nauczysz się tam techniki podstawowych manewrów używanych na rzekach górskich i będziesz je szlifował na 2 pływankach dziennie!
 
-![](/20250713_132149.jpg) ![](/_dmp7391.jpg)
+![](/20250713_132149.jpg)
+
+Poza wejściem i wyjściem z cofki potrenujesz ratownictwo na wodzie, ale i zasmakujesz tak zwanego freestyle'u, który dostarczy Ci duużo zabawy.
+
+![](/_dmp7391.jpg)
+
+![]()
+
+![]()
 
 **Czechy w Tropikach**
 
