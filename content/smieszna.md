@@ -7,9 +7,14 @@ okej zobaczmy
 
 
 
-![yyy](/52147.jpg "WCHODZE W TO!")
+![](/52147.jpg "width: 30%;")
 
 <center><img width="10%" src="/facebook_logo_-square-.png"></center>
+
+
+<div>
+![](proba.png)
+</div>
 
 ![](/empty.png) ![](/facebook_logo_-square-.png) ![](/empty.png)
 

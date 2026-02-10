@@ -5,6 +5,7 @@
 
 {{ $src := images.Filter $filter $image }}
 {{ $alt := .PlainText | safeHTML }}
+{{ $style := .Title | safeCSS }}
 
 {{ if $image }}
 {{ $format := cond (eq $image.MediaType.SubType "gif") "" "webp" -}}
@@ -66,7 +67,11 @@
         <source media="(min-width: 1600px)"
                 srcset="{{with $large.RelPermalink }}{{.}}{{ end }}">
 
-        <img alt="{{ $alt }}" title="{{ $alt }}" src="{{ $src }}" loading="lazy" decoding="async" height="{{ $src.Height}}" width="{{ $src.Width }}" class="{{.Page.Site.Params.maciaimage.imgclass}}">
+        <img src="{{ $src }}"
+             loading="lazy" decoding="async"
+             height="{{ $src.Height}}" width="{{ $src.Width }}"
+             {{- with $alt -}} alt="{{ . }}" {{- end -}}
+             {{- with $style -}} style="{{ . }}"{{- end -}}>
 
     </picture>
 </a>
