@@ -5,18 +5,9 @@ okej zobaczmy
 
 
 
+![Tutaj ląduje to w kwadratowych nawaisach](/52147.jpg "") ![...potem poprawie zeby ładniej wyglądało -_-](/52147.jpg "") ![bo tu np jest tu](/52147.jpg "width: 50%; float: right;") 
 
 
-![](/52147.jpg "width: 30%;")
-
-<center><img width="10%" src="/facebook_logo_-square-.png"></center>
-
-
-<div>
-![](proba.png)
-</div>
-
-![](/empty.png) ![](/facebook_logo_-square-.png) ![](/empty.png)
 
 <p style="background-color:powderblue; font-size:300%"> ale bydlak</p>
 

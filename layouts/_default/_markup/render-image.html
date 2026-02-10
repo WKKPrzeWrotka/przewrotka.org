@@ -71,7 +71,8 @@
              loading="lazy" decoding="async"
              height="{{ $src.Height}}" width="{{ $src.Width }}"
              {{- with $alt -}} alt="{{ . }}" {{- end -}}
-             {{- with $style -}} style="{{ . }}"{{- end -}}>
+             {{- with $style -}} style="{{ . }}" {{- end -}}>
+        {{- with $alt -}}<span>{{ $alt }}</span>{{- end -}}
 
     </picture>
 </a>
