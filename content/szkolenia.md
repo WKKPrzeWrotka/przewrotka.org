@@ -13,9 +13,9 @@ Poza wejściem i wyjściem z cofki potrenujesz ratownictwo na wodzie, ale i zasm
 
 ![](/_dmp7391.jpg)
 
-![]()
+W ramach odpoczynku od codziennych wykładów porzucasz rzutkami i pointegrujesz się z ziomeczkami z innych klubów we współnym obozie!
 
-![]()
+![](/_dmp7239.jpg)
 
 **Czechy w Tropikach**
 
