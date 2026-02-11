@@ -2,4 +2,4 @@
 title: Szkolenia
 weight: 5
 ---
-[Tutaj](/szkolenia)[](/szkolenia) przeczytasz, jak i gdzie się szkolimy!
+Nasi klubowicze szkolą się też na międzyklubowych wyjazdach - [zobacz na jakich!](/szkolenia)
