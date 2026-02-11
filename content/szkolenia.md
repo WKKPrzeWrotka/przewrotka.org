@@ -19,7 +19,12 @@ Szkolenie kończy się egzaminem teoretycznym i praktycznym.
 
 **Czechy w Tropikach**
 
+Można powiedzieć, że to kolejny etap po Salzie Szkoleniowej. Jeśli masz już pewność w manewrach kajakowych, robisz eskimoskę w akcji i chcesz usamodzielnić się w kajakarstwie górskim, w tym w organizacji własnych wyjazdów,
+rozwijać umiejętność pływania w grupie - to wyjazd właśnie dla Ciebie!
+
 ![](/57648.jpg)![](/61870.jpeg)
+
+"Czechy" odbywają się w maju i jak sama nazwa sugeruje, mają miejsce się w Słowenii, dolinie rzeki Soczy :))
 
 **Alpy Szkoleniowe**[](/galeria)
 
