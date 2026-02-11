@@ -19,4 +19,8 @@ Wyjazd weekendowy na austriackich rzekach organizowany przez AKTK "Bystrze", na 
 
 **Przerodziny**
 
+Urodziny Przewrotki - czyli coroczna impreza, na którą zapraszamy klubowiczów i sympatyków z całej Polski!
+
+![](/20250920_170730.jpg)
+
 **Kajak Jamboree**
