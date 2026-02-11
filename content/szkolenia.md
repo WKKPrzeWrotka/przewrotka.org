@@ -13,6 +13,10 @@ Poza wejściem i wyjściem z cofki potrenujesz ratownictwo na wodzie, zasmakujes
 
 ![](/_dmp7391.jpg)![](/_dmp7239.jpg)
 
+Poza ćwiczeniami na torze Salzy kursanci spływają także dłuższy odcinek rzeki pod czujnym okiem instruktorów i pomocników. Zajęć nie zabraknie!
+
+Szkolenie kończy się egzaminem teoretycznym i praktycznym. 
+
 **Czechy w Tropikach**
 
 ![](/57648.jpg)![](/61870.jpeg)
