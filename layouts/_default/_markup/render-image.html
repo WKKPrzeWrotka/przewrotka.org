@@ -8,14 +8,14 @@
 {{ $style := .Title | safeCSS }}
 
 {{ if $image }}
-{{ $format := cond (eq $image.MediaType.SubType "gif") "" "webp" -}}
+{{ $format := cond (eq $image.MediaType.SubType "gif") "" "webp q70" -}}
 
 {{ $src := images.Filter $filter $image }}
 
 {{ $xs := 500 }}
 {{ $s := 800 }}
-{{ $m := 1200 }}
-{{ $l := 1500 }}
+{{ $m := 1000 }}
+{{ $l := 1200 }}
 
 {{ $data := newScratch }}
 
