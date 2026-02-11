@@ -9,13 +9,9 @@ Salza Szkoleniowa to 2 tygodnie przygody w Alpach dla osób, które ukończyły 
 
 ![](/20250713_132149.jpg)
 
-Poza wejściem i wyjściem z cofki potrenujesz ratownictwo na wodzie, ale i zasmakujesz tak zwanego freestyle'u, który dostarczy Ci duużo zabawy.
+Poza wejściem i wyjściem z cofki potrenujesz ratownictwo na wodzie, zasmakujesz tak zwanego freestyle'u, a w przerwach od intensywnych wykładów porzucasz rzutkami w wyborowym towarzystwie.
 
-![](/_dmp7391.jpg)
-
-
-
-![](/_dmp7239.jpg)
+![](/_dmp7391.jpg)![](/_dmp7239.jpg)
 
 **Czechy w Tropikach**
 
