@@ -19,7 +19,7 @@ Wyjazd weekendowy na austriackich rzekach organizowany przez AKTK "Bystrze", na 
 
 **Przerodziny**
 
-Urodziny Przewrotki - czyli coroczna impreza, na którą zapraszamy klubowiczów i sympatyków z całej Polski!
+Urodziny PrzeWrotki - czyli coroczna impreza, na którą zapraszamy klubowiczów i sympatyków z całej Polski! Będą tam na Ciebie czekać konkursy o przeróżnym charakterze, które możesz wygrać wraz ze swoją klubową drużyną. Jeszcze Cię tam nie było? To czekamy na Ciebie w kolejnej edycji!
 
 ![](/20250920_170730.jpg)
 
