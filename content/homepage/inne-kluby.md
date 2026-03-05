@@ -4,7 +4,7 @@ weight: 100
 ---
 Poznajcie inne kluby akademickie w Polsce! Integrujemy się z nimi, gdy tylko pojawi się taka możliwość!
 
-
+Możesz odwiedzić ich strony klikając w logo poniżej:
 
 <iframe src="/mapa-klubow"
     width="90%"
