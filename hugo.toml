@@ -16,4 +16,5 @@ theme = "hugo-scroll"
 [params]
   favicon = "images/favicon.png"
   images = ["images/przerodziny-reczniki.jpg"]
+  copyright = "Made by Zuza Kawczyńska and Mati Blue ❤️"
 
