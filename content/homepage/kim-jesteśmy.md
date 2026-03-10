@@ -6,7 +6,7 @@ Jesteśmy społecznością ludzi w każdym wieku z zajawką przede wszystkim kaj
 
 ![](/25970.jpg)
 
-![](/img_20220508_133814.jpg  "width: 30px")
+![](/img_20220508_133814.jpg  "width: 10%")
 
 ## Jak do nas dołączyć?
 
