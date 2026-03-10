@@ -24,8 +24,6 @@ rozwijać umiejętność pływania w grupie - to wyjazd właśnie dla Ciebie!
 
 ![](/57648.jpg)![](/61870.jpeg)
 
-"Czechy" odbywają się w maju i jak sama nazwa sugeruje, mają miejsce się w Słowenii, dolinie rzeki Soczy :))
-
-**Alpy Szkoleniowe**[](/galeria)
+"Czechy" odbywają się w maju i jak sama nazwa sugeruje, mają miejsce się w Słowenii, dolinie rzeki Soczy :))[](/galeria)
 
 [](https://przewrotka.org/admin/#/collections/pages/entries/dowiedz-si%C4%99-wi%C4%99cej)[](https://przewrotka.org/admin/#/collections/pages/entries/dowiedz-si%C4%99-wi%C4%99cej)
