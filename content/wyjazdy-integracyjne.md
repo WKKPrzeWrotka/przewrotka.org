@@ -24,3 +24,7 @@ Urodziny PrzeWrotki - czyli coroczna impreza, na którą zapraszamy klubowiczów
 ![](/20250920_170730.jpg)
 
 **Kajak Jamboree**
+
+Masz oko do zdjęć, filmów, memów? W takim razie to wydarzenie jest właśnie dla Ciebie! Zrób zdjęcie lub nagraj film o tematyce kajakowej i weź udział w konkursie, a potem baw się w najlepsze w klubie "Ucho" w Gdyni w gronie kajakarzy z całej Polski!
+
+![](/614211626_1438254814970419_4051401688903722318_n.jpg) ![](/612318723_1438301001632467_9141288583014315641_n.jpg)
