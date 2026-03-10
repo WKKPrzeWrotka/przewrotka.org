@@ -4,7 +4,7 @@ weight: 1
 ---
 Jesteśmy społecznością ludzi w każdym wieku z zajawką przede wszystkim kajakową! Łączy nas głównie kajakarstwo górskie i nizinne.
 
-![ ](/25970.jpg " ") 
+![ ](/25970.jpg " Alicja na wodospadzie Laussa w Austrii")
 
 ![](/img_20220508_133814.jpg)
 
