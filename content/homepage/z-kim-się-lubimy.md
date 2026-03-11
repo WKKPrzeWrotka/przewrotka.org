@@ -7,5 +7,3 @@ Jeszcze przed kursem możecie nas spotkać na Dniach Aktywności Studenckiej i w
 Wspierają nas także wspaniałe Fundacja Umbrella - Sektor 3 i Fundacja Młodzi Młodym!
 
 ![](/logopwrkolorpionbeztla.png "width: 150px") ![](/334287772_544496437786208_3683432284625964899_n.png "width: 300px") 
-
-![](/image-empty-state.avif)  ![](/images.png)
