@@ -4,7 +4,7 @@ weight: 1
 ---
 Jesteśmy społecznością ludzi w każdym wieku z zajawką przede wszystkim kajakową! Łączy nas głównie kajakarstwo górskie i nizinne.
 
-![](/25970.jpg) ![](/img_20250517_175206048_dev.jpg)
+![](/img_20250517_175206048_dev.jpg) ![](/img_20250517_175206048_dev.jpg)
 
 ## Jak do nas dołączyć?
 
