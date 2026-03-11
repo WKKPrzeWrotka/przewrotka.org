@@ -30,14 +30,10 @@ rozwijać umiejętność pływania w grupie - to wyjazd właśnie dla Ciebie!
 
 Jest to ostatni etap międzyklubowej oficjalnej drogi rozwoju. Szkolenie jest kierowane do osób swobodnie czujących się na rzekach o trudnościach WW3, chcących wynieść swoje kajakowe umiejętności na wyższy poziom. Na szkoleniu omawiane są zaawansowane techniki wiosłowania, przekazywana jest wiedza o bezpieczeństwie adekwatna do trudności rzek
 
-![...i przede wszystkim pływane są rzeki o trudnościach dochodzących do WW4+](/p1210466.jpg)
-
-![Stałym punktem szkolenia, wraz z przygotowaniem teoretycznym i mentalnym jest... wodospad. Fot. Iza Kurkiewicz](/p1210849.jpg)
+![...i przede wszystkim pływane są rzeki o trudnościach dochodzących do WW4+](/p1210466.jpg) ![Stałym punktem szkolenia, wraz z przygotowaniem teoretycznym i mentalnym jest... wodospad. Fot. Iza Kurkiewicz](/p1210849.jpg)
 
 Szkolenie kończy się za spuście wody na Wełtawie w Czechach. Brunatny kolor wody, charakterystyczne smak i woń oraz dziesiątki metrów sześciennych wody lecącej przez stromy wąski las tworzą wspaniałe zakończenie całego szkolenia.
 
 Jak ktoś uznaje się za kajakarza, to po tym szkoleniu czuje się nim bardziej!
 
-[](/galeria)
-
-[](https://przewrotka.org/admin/#/collections/pages/entries/dowiedz-si%C4%99-wi%C4%99cej)[](https://przewrotka.org/admin/#/collections/pages/entries/dowiedz-si%C4%99-wi%C4%99cej)
+[](/galeria) [](https://przewrotka.org/admin/#/collections/pages/entries/dowiedz-si%C4%99-wi%C4%99cej)[ (https://przewrotka.org/admin/#/collections/pages/entries/dowiedz-si%C4%99-wi%C4%99cej)
