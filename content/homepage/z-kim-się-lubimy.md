@@ -5,7 +5,7 @@ weight: 3
 Jeszcze przed kursem możecie nas spotkać na:
 
 * Dniach Aktywności Studenckiej na Politechnice Wrocławskiej
-* wydarzeniu "I love PWr" na PWr
+* wydarzeniu "I love PWr"
 * Barce w Muzeum Odry na Bulwarze PWr
 
 Wspierają nas:
