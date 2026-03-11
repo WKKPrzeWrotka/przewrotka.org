@@ -3,6 +3,8 @@ title: Szkolenia
 ---
 ![]()
 
+![]()
+
 Dbamy o Nasz rozwój! Bierzemy udział w szkoleniach z kajakarstwa górskiego na różnym poziomie zaawansowania. 
 
 **Salza szkoleniowa**
@@ -26,7 +28,7 @@ rozwijać umiejętność pływania w grupie - to wyjazd właśnie dla Ciebie!
 
 ![](/57648.jpg)![](/61870.jpeg)
 
-"Czechy" odbywają się w maju i jak sama nazwa sugeruje, mają miejsce się w Słowenii, dolinie rzeki Soczy :))
+"Czechy" odbywają się w maju i jak sama nazwa sugeruje, mają miejsce się w Słowenii, w dolinie rzeki Soczy :))
 
 **Alpy Szkoleniowe**
 
