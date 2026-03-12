@@ -34,6 +34,6 @@ Jest to ostatni etap międzyklubowej oficjalnej drogi rozwoju. Szkolenie jest ki
 
 Szkolenie kończy się za spuście wody na Wełtawie w Czechach. Brunatny kolor wody, charakterystyczne smak i woń oraz dziesiątki metrów sześciennych wody lecącej przez stromy wąski las tworzą wspaniałe zakończenie całego szkolenia.
 
-![](/P1220059.jpg) ![](/p1220059.jpg)
+![](/p1220059.jpg) ![](/img_20240205_140752.jpg)
 
 Jeśli ktoś uznaje się za kajakarza, to po tym szkoleniu czuje się nim bardziej!
