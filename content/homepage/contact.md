@@ -2,6 +2,12 @@
 title: Kontakt
 weight: 10
 ---
-* <https://www.facebook.com/PrzeWrotka>
-* <https://www.instagram.com/przewrotka/>
-* mkkprzewrotka\[at]gmail.com
+Wrocławski Klub Kajakowy PrzeWrotka
+
+* Fb: <https://www.facebook.com/PrzeWrotka>
+* Ig: <https://www.instagram.com/przewrotka/>
+* mail: mkkprzewrotka\[at]gmail.com
+* Nr konta: 35 2030 0045 1110 0000 0382 5640
+* KRS: 0000270261
+
+\
