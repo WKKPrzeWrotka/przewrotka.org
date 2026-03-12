@@ -3,6 +3,8 @@ title: Szkolenia
 ---
 Dbamy o Nasz rozwój! Bierzemy udział w szkoleniach z kajakarstwa górskiego na różnym poziomie zaawansowania. 
 
+![](/42321.jpg) ![](/img_3234.jpg)
+
 **Salza szkoleniowa**
 
 Salza Szkoleniowa to 2 tygodnie przygody w Alpach dla osób, które ukończyły Szkoleniówkę w swoim klubie. Nauczysz się tam techniki podstawowych manewrów używanych na rzekach górskich i będziesz je szlifował na 2 pływankach dziennie!
