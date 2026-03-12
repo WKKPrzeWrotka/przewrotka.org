@@ -2,13 +2,13 @@
 title: Z kim współpracujemy
 weight: 5
 ---
-![](/20260312_151917.jpg)
-
 Jeszcze przed kursem możecie nas spotkać na:
 
 * Dniach Aktywności Studenckiej na Politechnice Wrocławskiej
 * wydarzeniu "I love PWr"
 * Barce w Muzeum Odry na Bulwarze PWr
+
+![](/20260312_151917.jpg)
 
 Wspierają nas:
 
