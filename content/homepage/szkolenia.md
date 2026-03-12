@@ -1,6 +1,6 @@
 ---
 title: Szkolenia
-weight: 5
+weight: 3
 ---
 ![](/img_20250701_200724.jpg)
 
