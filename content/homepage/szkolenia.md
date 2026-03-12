@@ -2,4 +2,4 @@
 title: Szkolenia
 weight: 5
 ---
-Nasi klubowicze szkolą się też na międzyklubowych wyjazdach - [zobacz na jakich!](/szkolenia)
+Będąc naszym Klubowiczem możesz szkolić się na międzyklubowych wyjazdach - [zobacz na jakich!](/szkolenia)
