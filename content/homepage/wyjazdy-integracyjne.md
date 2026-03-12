@@ -1,6 +1,6 @@
 ---
 title: Wyjazdy integracyjne
-weight: 5
+weight: 4
 ---
 ![](/dsc01283_dev.jpg)
 
