@@ -1,6 +1,6 @@
 ---
 title: Zarząd
-weight: 10
+weight: 8
 ---
 W skład Zarządu na rok 2026 wchodzą:
 
