@@ -2,7 +2,7 @@
 title: Kim jesteśmy?
 weight: 1
 ---
-Jesteśmy klubem kajakowym działającym we Wrocławiu i zrzeszającym osoby w różnym wieku, które łączy pasja do kajakarstwa górskiego i nizinnego!
+Jesteśmy klubem kajakowym skupiającym miłośników kajakarstwa górskiego i nizinnego! Tworzymy środowisko osób lubiących aktywnie spędzać czas na wodzie, rozwijać swoje umiejętności i dzielić się swoim doświadczeniem.
 
 ![](/25970-1-.jpg) ![](/img_20250517_175206048_dev.jpg)
 
