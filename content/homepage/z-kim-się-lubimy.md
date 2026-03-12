@@ -2,6 +2,8 @@
 title: Z kim współpracujemy
 weight: 5
 ---
+![](/20260312_151917.jpg)
+
 Jeszcze przed kursem możecie nas spotkać na:
 
 * Dniach Aktywności Studenckiej na Politechnice Wrocławskiej
