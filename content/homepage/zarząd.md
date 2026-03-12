@@ -10,4 +10,4 @@ W skład Zarządu na rok 2026 wchodzą:
 * Kacper "Kacperek" Dąbek - Sprzętowiec
 * Karolina "Facetka" Sienkiewicz - Szkoleniowiec
 
-![](/581045389_1373579431138653_3875934398506224364_n.jpg "width: 80%;")
+![](/581045389_1373579431138653_3875934398506224364_n.jpg)
