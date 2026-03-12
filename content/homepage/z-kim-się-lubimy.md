@@ -1,6 +1,6 @@
 ---
 title: Z kim współpracujemy
-weight: 3
+weight: 5
 ---
 Jeszcze przed kursem możecie nas spotkać na:
 
