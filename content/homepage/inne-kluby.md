@@ -1,6 +1,6 @@
 ---
 title: Inne kluby
-weight: 9
+weight: 11
 ---
 Poznajcie inne kluby akademickie w Polsce! Integrujemy się z nimi, gdy tylko pojawi się taka możliwość!
 
