@@ -36,6 +36,7 @@
     img {
         max-width: 100%;
         height: auto;
+        object-fit: contain;
     }
     
     #site-head-content {
@@ -78,7 +79,7 @@
     /* # MULTIPLE INLINE IMAGES - By Mati Blu and Kimi-K2 <3 */
 
     /* flex container only when paragraph holds image-links */
-    p:has(a img) {
+    p:has(picture) {
         display: flex;
         flex-wrap: wrap;
         gap: 0.5rem;
@@ -92,11 +93,11 @@
     }
 
     /* count image-links, not plain links */
-    p:has(a:nth-of-type(2) img) a:has(img) { max-width: 48%; }
-    p:has(a:nth-of-type(3) img) a:has(img) { max-width: 32%; }
-    p:has(a:nth-of-type(4) img) a:has(img) { max-width: 24%; }
-    p:has(a:nth-of-type(5) img) a:has(img) { max-width: 19%; }
-    p:has(a:nth-of-type(6) img) a:has(img) { max-width: 16%; }
+    p:has(picture:nth-of-type(2)) picture { max-width: 48%; }
+    p:has(picture:nth-of-type(3)) picture { max-width: 32%; }
+    p:has(picture:nth-of-type(4)) picture { max-width: 24%; }
+    p:has(picture:nth-of-type(5)) picture { max-width: 19%; }
+    p:has(picture:nth-of-type(6)) picture { max-width: 16%; }
 
 </style>
 
