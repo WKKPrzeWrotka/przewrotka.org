@@ -51,31 +51,28 @@
 
 {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
 
+<picture>
 
-<a href="{{ $image.RelPermalink }}">
-    <picture>
+    <source media="(max-width: 376px)"
+            srcset="{{with $tiny.RelPermalink }}{{.}}{{ end }}">
 
-        <source media="(max-width: 376px)"
-                srcset="{{with $tiny.RelPermalink }}{{.}}{{ end }}">
+    <source media="(max-width: 992px)"
+            srcset="{{with $small.RelPermalink }}{{.}}{{ end }}">
 
-        <source media="(max-width: 992px)"
-                srcset="{{with $small.RelPermalink }}{{.}}{{ end }}">
+    <source media="(max-width: 1400px)"
+            srcset="{{with $medium.RelPermalink }}{{.}}{{ end }}">
 
-        <source media="(max-width: 1400px)"
-                srcset="{{with $medium.RelPermalink }}{{.}}{{ end }}">
+    <source media="(min-width: 1600px)"
+            srcset="{{with $large.RelPermalink }}{{.}}{{ end }}">
 
-        <source media="(min-width: 1600px)"
-                srcset="{{with $large.RelPermalink }}{{.}}{{ end }}">
+    <img src="{{ $src }}"
+         loading="lazy" decoding="async"
+         height="{{ $src.Height}}" width="{{ $src.Width }}"
+         {{- with $alt -}} alt="{{ . }}" {{- end -}}
+         {{- with $style -}} style="{{ . }}" {{- end -}}>
+    {{- with $alt -}}<span>{{ $alt }}</span>{{- end -}}
 
-        <img src="{{ $src }}"
-             loading="lazy" decoding="async"
-             height="{{ $src.Height}}" width="{{ $src.Width }}"
-             {{- with $alt -}} alt="{{ . }}" {{- end -}}
-             {{- with $style -}} style="{{ . }}" {{- end -}}>
-        {{- with $alt -}}<span>{{ $alt }}</span>{{- end -}}
-
-    </picture>
-</a>
+</picture>
 
 {{/* Since I do image-response class, the only thing that really
 matters is the height and width matches the image aspect ratio */}}
