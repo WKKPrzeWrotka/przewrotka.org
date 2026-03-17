@@ -3,6 +3,8 @@ title: Wyjazdy integracyjne
 ---
 W ciągu roku organizujemy wyjazdy koleżeńskie, których ideą jest dobra zabawa, pływanie w małych grupach, a przy okazji ewentualne ćwiczenie techniki na wodzie.
 
+![](/000098840010.jpg) ![](/_dmp7234-2-.jpg)
+
 **Alpy "0"**
 
 Jest to wyjazd  do Austrii skierowany przede wszystkim do świeżo upieczonych kajakarzy, którzy w górach jeszcze nie byli, a chcą spróbować! Jedyne wymagania to umiejętność pływania wpław, udział w szkoleniówce swojego klubu i udział w jednym klubowym wyjeździe na tor kajakowy. Rolka nie jest wymagana!
