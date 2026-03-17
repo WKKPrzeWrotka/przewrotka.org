@@ -3,7 +3,7 @@ title: Wyjazdy integracyjne
 ---
 W ciągu roku organizujemy wyjazdy koleżeńskie, których ideą jest dobra zabawa, pływanie w małych grupach, a przy okazji ewentualne ćwiczenie techniki na wodzie.
 
-![](/000098840010.jpg) ![](/_dmp7234-2-.jpg)
+![](/000098840010.jpg) ![](/000098840002.jpg)
 
 **Alpy "0"**
 
@@ -29,4 +29,4 @@ Urodziny PrzeWrotki - czyli coroczna impreza, na którą zapraszamy klubowiczów
 
 Masz oko do zdjęć, filmów, memów? W takim razie to wydarzenie jest właśnie dla Ciebie! Zrób zdjęcie lub nagraj film o tematyce kajakowej i weź udział w konkursie, a potem baw się w najlepsze w klubie "Ucho" w Gdyni w gronie kajakarzy z całej Polski!
 
-![](/614211626_1438254814970419_4051401688903722318_n.jpg) ![](/612318723_1438301001632467_9141288583014315641_n.jpg)
+![](/_dmp7234-2-.jpg)
