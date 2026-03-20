@@ -13,7 +13,13 @@ Jest to wyjazd  do Austrii skierowany przede wszystkim do świeżo upieczonych k
 
 Chcesz spróbować swoich sił na rzekach górskich, ale jeszcze nie masz w tym doświadczenia? Alpy zero to idealna okazja dla Ciebie! Zaopiekujemy się Tobą na rzece!
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/4d8C95Ve4D4?si=3qUlpdjli3UF3Mei" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe 
+  src="https://www.youtube.com/embed/4d8C95Ve4D4?si=3qUlpdjli3UF3Mei"
+  title="YouTube video player"
+  style="width:100%; aspect-ratio:16/9; border:0;"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 **Alpy z Bambikami**
 
