@@ -13,6 +13,8 @@ Jest to wyjazd  do Austrii skierowany przede wszystkim do świeżo upieczonych k
 
 Chcesz spróbować swoich sił na rzekach górskich, ale jeszcze nie masz w tym doświadczenia? Alpy zero to idealna okazja dla Ciebie! Zaopiekujemy się Tobą na rzece!
 
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/4d8C95Ve4D4?si=3qUlpdjli3UF3Mei" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Alpy z Bambikami**
 
 Wyjazd weekendowy na austriackich rzekach organizowany przez AKTK "Bystrze", na którym pływa się bez napinki. Bardziej doświadczeni kajakarze wspierają Bambiki na wodzie, ale wszystko odbywa się w koleżeńskiej atmosferze.
