@@ -12,6 +12,4 @@ ul. Legnicka 65a, 54-206 Wrocław
 * mail: mkkprzewrotka\[at]gmail.com
 * NIP: 8943236708
 * Nr konta: 35 2030 0045 1110 0000 0382 5640
-* KRS: 0000270261
-
-\
+* KRS: 0001103050
