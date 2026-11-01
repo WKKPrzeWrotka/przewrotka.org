@@ -32,10 +32,10 @@ rozwijać umiejętność pływania w grupie - to wyjazd właśnie dla Ciebie!
 
 Jest to ostatni etap międzyklubowej oficjalnej drogi rozwoju. Szkolenie jest kierowane do osób swobodnie czujących się na rzekach o trudnościach WW3, chcących wynieść swoje kajakowe umiejętności na wyższy poziom. Na szkoleniu omawiane są zaawansowane techniki wiosłowania, przekazywana jest wiedza o bezpieczeństwie adekwatna do trudności rzek
 
-![](/p1210466.jpg)  ![](/p1210849.jpg)
+![](/p1210466.jpg )  ![](/p1210849.jpg)
 
 Szkolenie kończy się za spuście wody na Wełtawie w Czechach. Brunatny kolor wody, charakterystyczne smak i woń oraz dziesiątki metrów sześciennych wody lecącej przez stromy wąski las tworzą wspaniałe zakończenie całego szkolenia.
 
-![](/p1220059.jpg) ![](/img_20240205_140752.jpg)
+![](/p1220059.jpg ) ![](/img_20240205_140752.jpg)
 
 Jeśli ktoś uznaje się za kajakarza, to po tym szkoleniu czuje się nim bardziej!
