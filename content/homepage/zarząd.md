@@ -2,12 +2,12 @@
 title: Zarząd
 weight: 8
 ---
-W skład Zarządu na rok 2026 wchodzą:
+W skład Zarządu na sezon 2026/27 wchodzą:
 
-* Mateusz "Blue" Soszyński - Prezes 
-* Jakub "Prezes" Olejnik - Zastępca Prezes
-* Zuzanna "EjTy" Ejsymont - Skarbnik
-* Kacper "Kacperek" Dąbek - Sprzętowiec
-* Karolina "Facetka" Sienkiewicz - Szkoleniowiec
+- 👨‍💼 Prezes - Agnieszka Rogala
+- 🤴 Wiceprezes - Anna Kędzia
+- 🤑 Skarbnik - Zuzanna Ejsymont
+- 👩‍🏫 Szkoleniowiec - Zuzanna Kawczyńska
+- 🧑‍🏭 Sprzętowiec - Mateusz Soszyński
 
-![](/581045389_1373579431138653_3875934398506224364_n.jpg)
+![](/zarzont.webp)
